@@ -4,9 +4,9 @@ public class BooleanExample {
         boolean isRaining = true;
 
         if (isRaining) {
-            System.out.println("Bring an umbrella.")
+            System.out.println("Bring an umbrella.");
         } else {
-            System.out.println("Enjoy the sunshine!")
+            System.out.println("Enjoy the sunshine!");
         }
     }
     

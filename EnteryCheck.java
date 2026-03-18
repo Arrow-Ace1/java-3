@@ -1,0 +1,14 @@
+public class EnteryCheck {
+    public static void main(String[] args) {
+        
+        boolean hasTicket = false;
+        boolean isVIP = true;
+
+        if (hasTicket || isVIP) {
+            System.out.println("Welcome in!");
+        } else {
+            System.out.println("Access denied.");
+        }
+    }
+
+}
